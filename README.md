@@ -1,5 +1,5 @@
 Çok çok çok büyük not;
-Eğer ki metalı mermi sistemini kullanmak istiyorsanız envanter ve weapons sistemini kullanmak zorundasınız. Silah çektiğinizde ki evenet tetiklerini envanter üzerinden yapıyor.
+Eğer ki metalı mermi sistemini kullanmak istiyorsanız envanter ve weapons sistemini kullanmak zorundasınız. Silah çektiğinizde ki event tetiklerini envanter üzerinden yapıyor.
 
 Not : qb-weapons içerisinde ki tgian-hud:load-data adlı eventi qbcore içerisinde onPlayerLoaded içerisine yazmanız gerekiyor. Sunucuya ilk girdiğinizde mermilerinizi yüklemesi açısından.
 
